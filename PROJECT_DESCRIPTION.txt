@@ -1,0 +1,6 @@
+PROJECT DESCRIPTION - PERSONAL PORTFOLIO WEBSITE
+Student Name: Anugu Vaishnavi
+Technologies Used: HTML5, CSS3 (Pure semantic frontend, no frameworks or scripts)
+Submission Target: HTML & CSS Internship Project (Deadline: 16 October 2026)
+
+This personal portfolio website is a modern, responsive showcase developed exclusively with semantic HTML5 and vanilla CSS3 to exhibit my academic background, technical competencies, and software engineering projects. Tailored for aspiring Software Development Engineer, AI Engineer, and Backend Developer roles, the platform integrates a professional dark navy design system illuminated with electric blue and cyan accent glows. Key sections include a custom-crafted code-card hero illustration, academic and biographical timelines, categorised technical skill sets, and responsive project displays linking directly to active GitHub repositories. Built with strict accessibility principles, fluid CSS Grid and Flexbox architectures, and a pure CSS responsive mobile navigation, the project delivers an engaging, lightweight user experience without requiring external frameworks or JavaScript.

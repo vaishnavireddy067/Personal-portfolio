@@ -74,4 +74,4 @@ Personal-portfolio/
 
 - **Developer:** Anugu Vaishnavi
 - **GitHub:** [@vaishnavireddy067](https://github.com/vaishnavireddy067)
-- **Email:** [anuguvaishnavireddy2@gmail.com](mailto:anuguvaishnavireddy0@gmail.com)
+- **Email:** [anuguvaishnavireddy2@gmail.com](mailto:anuguvaishnavireddy2@gmail.com)
